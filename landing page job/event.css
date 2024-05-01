@@ -5,7 +5,7 @@
     font-weight: 600;
     font-size: var(--font-size-5xl);
     color: var(--color-white);
-    font-family:  var(--font-franklin-gothic-demi);
+    font-family:  var(--font-montserrat-black);
 }
 
 .event-header {
@@ -97,7 +97,7 @@
     bottom: 10px;
     right: 10px;
     font-size: 1rem;
-    font-family: inherit;
+    font-family:  var(--font-montserrat-black);
 }
 
 .img-bg button:hover {
