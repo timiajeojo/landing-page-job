@@ -537,8 +537,8 @@ body {
   @media (max-width: 1444px) {
     .bimz-1-icon {
       position: absolute;
-      top: 10rem;
-      left: 3rem;
+      top: 9rem;
+      left: 50rem;
       transform: scale(0.7);
     }
 
