@@ -143,7 +143,7 @@ body {
     text-align: left;
     font-size: var(--font-size-5xl);
     color: var(--color-white);
-    font-family: var(--font-montserrat-black);
+    font-family:  var(--font-montserrat-black);
   }
 
   .desktop-1-child {
@@ -589,7 +589,7 @@ body {
       left: 3rem;
       font-size: 65px;
       font-weight: 600;
-      font-family: var(--font-montserrat-black);
+      font-family:  var(--font-montserrat-black);
       text-align: left;
     
     }
@@ -742,6 +742,7 @@ body {
 
   .send {
     display: none;
+    
   }
   }
 

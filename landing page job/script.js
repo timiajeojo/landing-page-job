@@ -17,6 +17,7 @@ document.querySelectorAll('nav a').forEach(anchor => {
         }
      });
 });
+
 document.querySelectorAll('button.events').forEach(anchor => {
     anchor.addEventListener('click', function(e) {
        e.preventDefault();
