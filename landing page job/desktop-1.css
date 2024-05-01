@@ -419,8 +419,8 @@ body {
   
   .send-wrapper {
     text-decoration: none;
-    top: 2420px;
-    left: 865px;
+    top: 2430px;
+    left: 885px;
     color: #010101;
   }
   
@@ -550,8 +550,8 @@ body {
         background-color: #FFA902;
         border: 0;
         color: #f4f4f4;
-      top: 34rem;
-      left: 3rem;
+      top: 32rem;
+      left: 50rem;
       border: 0;
       border-radius: 0.5em;
       font-size: 1.5rem;
@@ -631,8 +631,8 @@ body {
     .send {
       display: block;
       margin-right: 7.8rem;
-      text-align: right;
-      width: 12rem;
+      text-align: center;
+      width: 10rem;
       font-size: 2rem;
     }
   } 
@@ -748,7 +748,7 @@ body {
 
   @media (max-width: 400px) {
     .bimz-1-icon {
-      width: 115%;
+      width: 89%;
       margin-left: 1.2rem;
     }
 
