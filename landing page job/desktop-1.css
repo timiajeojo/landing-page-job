@@ -926,9 +926,11 @@ body {
   .send,
   .send-wrapper {
     position: absolute;
-    left: 81px;
-    width: fit;
+    top: 1250px;
+    left: 53px;
+    width: 160px;
     height: 52px;
+    font-size: 35px;
   }
 
   .btn-active input {

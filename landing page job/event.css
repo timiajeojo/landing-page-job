@@ -249,9 +249,9 @@
     }
     
     .img-bg button {
-        position: absolute;
-        top: 24rem;
-        height: 4rem;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
     }
 
     .rectangle-icon,  .mask-group-icon {
