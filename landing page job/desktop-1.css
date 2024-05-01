@@ -389,15 +389,17 @@ body {
   /*button styling*/
   .send {
     font: inherit;
-    width: fit-content;
+   
       background-color: #FFA902;
       border: 0;
       color: #f4f4f4;
     top: 12rem;
-    left: 9rem;
+    left: 2rem;
     border: 0;
     border-radius: 0.5em;
-    font-size: 3rem;
+    font-size: 1rem;
+    bottom: 10px;
+    right: 10px;
     
     padding: 0.5rem 1em;
       font-weight: 600;
