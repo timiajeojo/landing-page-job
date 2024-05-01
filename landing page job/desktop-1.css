@@ -143,7 +143,7 @@ body {
     text-align: left;
     font-size: var(--font-size-5xl);
     color: var(--color-white);
-    font-family:  var(--font-franklin-gothic-demi);
+    font-family: var(--font-montserrat-black);
   }
 
   .desktop-1-child {
@@ -229,7 +229,7 @@ body {
     left: 60px;
     font-size: 12px;
     font-weight: 200;
-    font-family: var(--font-franklin-gothic-demi);
+    font-family: var(--font-montserrat-black);
     text-align: center;
   }
   .us {
@@ -239,7 +239,7 @@ body {
     left: 20px;
     font-size: 2rem;
     font-weight: 200;
-    font-family: var(--font-franklin-gothic-demi);
+    font-family: var(--font-montserrat-black);
     text-align: center;
   }
   .us {
@@ -271,7 +271,7 @@ body {
     top: 1093px;
     left: 730px;
     font-size: var(--font-size-5xl);
-    font-family: var(--font-franklin-gothic-demi);
+    font-family: var(--font-montserrat-black);
     color: var(--color-orange);
     width: 649px;
   }
@@ -289,7 +289,7 @@ body {
     top: 993px;
     left: 730px;
     font-size: var(--font-size-5xl);
-    font-family: var(--font-franklin-gothic-demi);
+    font-family: var(--font-montserrat-black);
     display: inline-block;
     width: 649px;
   }
@@ -524,7 +524,7 @@ body {
     text-align: left;
     font-size: var(--font-size-17xl);
     color: var(--color-white);
-    font-family: var(--font-franklin-gothic-demi);
+    font-family: var(--font-montserrat-black);
   }
   
   ::placeholder {
@@ -585,11 +585,11 @@ body {
       margin: 0;
       width: 30rem;
       position: absolute;
-      top: 67.5rem;
+      top: 68.5rem;
       left: 3rem;
-      font-size: 80px;
+      font-size: 65px;
       font-weight: 600;
-      font-family: var(--font-franklin-gothic-demi);
+      font-family: var(--font-montserrat-black);
       text-align: left;
     
     }
@@ -600,7 +600,7 @@ body {
       top: 64rem;
       left: 38rem;
       font-size: 1.5rem;
-      font-family: var(--font-franklin-gothic-demi);
+      font-family: var(--font-montserrat-black);: var(--font-montserrat-black);
       display: inline-block;
       width: fit-content;
     }
@@ -673,7 +673,7 @@ body {
       left: 33rem;
       font-size: 3rem;
       font-weight: 200;
-      font-family: var(--font-franklin-gothic-demi);
+      font-family: var(--font-montserrat-black);
       text-align: center;
     
     }
@@ -684,7 +684,7 @@ body {
       top: 61rem;
       left: 33rem;
       font-size: 1.5rem;
-      font-family: var(--font-franklin-gothic-demi);
+      font-family: var(--font-montserrat-black);
       display: inline-block;
       width: fit-content;
     }
@@ -769,7 +769,7 @@ body {
       left: 11px;
       font-size: 1rem;
       font-weight: 100;
-      font-family: var(--font-franklin-gothic-demi);
+      font-family: var(--font-montserrat-black);
       text-align: center;
     
     }
@@ -816,7 +816,7 @@ body {
       text-align: left;
       font-size: 0.8rem;
       color: var(--color-white);
-      font-family: var(--font-franklin-gothic-demi);
+      font-family: var(--font-montserrat-black);
     }
   
     .bimz-1-icon {
@@ -861,7 +861,7 @@ body {
     left: 11px;
     font-size: 3rem;
     font-weight: 200;
-    font-family: var(--font-franklin-gothic-demi);
+    font-family: var(--font-montserrat-black);
     text-align: left;
   }
   .us {
