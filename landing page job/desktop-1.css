@@ -748,8 +748,9 @@ body {
 
   @media (max-width: 400px) {
     .bimz-1-icon {
-      width: 89%;
+      width: 360px;
       margin-left: 1.2rem;
+      height: auto;
     }
 
     .rectangle-icon {
@@ -845,7 +846,7 @@ body {
         background-color: #FFA902;
         border: 0;
         color: #f4f4f4;
-      top: 32rem;
+      top: 33rem;
       left: 1rem;
       border: 0;
       border-radius: 0.5em;
@@ -856,13 +857,12 @@ body {
   .us {
     margin: 0;
     position: absolute;
-    top: 951px;
+    top: 830px;
     left: 11px;
     font-size: 3rem;
     font-weight: 200;
     font-family: var(--font-franklin-gothic-demi);
     text-align: left;
-  
   }
   .us {
     display: none;
@@ -875,18 +875,18 @@ body {
   .our-name-is-container {
     margin: 0;
     position: absolute;
-    top: 63rem;
+    top: 53rem;
     left: 11px;
     font-size: var(--font-size-5xl);
     font-family: var(--font-montserrat-black);
     display: inline-block;
-    width: fit-content
+    width: fit-content;
   }
 
   .contact-header {
     position: absolute;
-    top: 108rem;
-    left: 0;
+    top: 140rem;
+    left: 30px;
     right: 0;
     width: 80%;
   }
@@ -926,7 +926,7 @@ body {
   .send,
   .send-wrapper {
     position: absolute;
-    left: 11px;
+    left: 81px;
     width: fit;
     height: 52px;
   }
@@ -939,8 +939,8 @@ body {
 
   .bimzdrumzlive {
     position: absolute;
-    top: 2704px;
-    left:70px;
+    top: 2764px;
+    left:79px;
     font-size: var(--font-size-5xl);
     text-align: center;
     text-transform: uppercase;
