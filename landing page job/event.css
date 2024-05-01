@@ -210,14 +210,16 @@
         margin: 1rem 0rem;
         text-align: left;
         width: fit-content;
+        font-size: 20px;
+        
     }
 
     .img-bg {
         width: 22rem;
         height: 30rem;
         position: absolute;
-        top: 20rem;
-        left: 0.5rem;
+        top: 24rem;
+        left: 0.2rem;
         
     }
 
